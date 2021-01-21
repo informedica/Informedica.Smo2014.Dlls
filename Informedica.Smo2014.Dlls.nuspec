@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package >
+  <metadata>
+    <id>Informedica.Smo2014.Dlls</id>
+    <version>1.1.0</version>
+    <title>Packaged Smo 2014 dlls</title>
+    <authors>informedica</authors>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <license type="expression">MIT</license>
+    <projectUrl>httsp://github.com/informedica/Informedica.Smo2014.Dlls</projectUrl>
+    <description>Contains package Smo dlls</description>
+    <releaseNotes>First commit</releaseNotes>
+    <copyright>2021</copyright>
+  </metadata>
+  <files>
+    <file src="lib\*.*" target="lib\net461" />
+  </files>
+</package>

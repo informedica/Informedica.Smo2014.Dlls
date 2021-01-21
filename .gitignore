@@ -1,0 +1,18 @@
+# use opt-in
+*
+
+# Add me
+!.gitignore
+
+## Add nuspec
+!*.nuspec
+
+## Add nuget tool
+!nuget.exe
+
+## Add md files
+!*.md
+
+## Add dlls
+!/lib
+!/lib/*.dll
