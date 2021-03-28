@@ -7,7 +7,7 @@
     <authors>informedica</authors>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <license type="expression">MIT</license>
-    <projectUrl>httsp://github.com/informedica/Informedica.Smo2014.Dlls</projectUrl>
+    <projectUrl>https://github.com/informedica/Informedica.Smo2014.Dlls</projectUrl>
     <description>Contains package Smo dlls</description>
     <releaseNotes>First commit</releaseNotes>
     <copyright>2021</copyright>
